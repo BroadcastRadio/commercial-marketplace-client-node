@@ -1,3 +1,7 @@
+# Current status
+
+This project is deprecated and not in active development.
+
 # Project
 
 > This repo has been populated by an initial template to help get you started. Please
