@@ -410,7 +410,7 @@ export interface SubscriptionTerm {
 }
 
 // @public
-export type TermUnitEnum = "P1M" | "P1Y";
+export type TermUnitEnum = "P1M" | "P1Y" | "P2Y" | "P3Y";
 
 // @public (undocumented)
 export interface UpdateOperation {
